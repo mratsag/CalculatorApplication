@@ -39,6 +39,8 @@ Bu proje, Java'nın Swing kütüphanesi kullanılarak geliştirilmiş basit bir 
 
 ### 🧪 Ekran Görüntüsü
 Proje çalıştığında aşağıdaki gibi bir arayüz ile karşılaşacaksınız:
+
+
 <img width="301" alt="Screenshot 2025-04-10 at 11 14 18 PM" src="https://github.com/user-attachments/assets/e9cfbad9-788d-4cf6-9b4c-4ffe260d7dbf" />
 
 
